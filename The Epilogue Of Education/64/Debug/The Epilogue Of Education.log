@@ -1,0 +1,343 @@
+﻿  main.cpp
+D:\7th SEMESTER\Graphics LAB\TheEpilogueOfEducation-CGProject-master\The Epilogue Of Education\main.cpp(86,18): warning C4244: 'argument': conversion from 'GLint' to 'GLfloat', possible loss of data
+D:\7th SEMESTER\Graphics LAB\TheEpilogueOfEducation-CGProject-master\The Epilogue Of Education\main.cpp(86,15): warning C4244: 'argument': conversion from 'GLint' to 'GLfloat', possible loss of data
+D:\7th SEMESTER\Graphics LAB\TheEpilogueOfEducation-CGProject-master\The Epilogue Of Education\main.cpp(112,20): warning C4244: 'argument': conversion from 'GLfloat' to 'GLubyte', possible loss of data
+D:\7th SEMESTER\Graphics LAB\TheEpilogueOfEducation-CGProject-master\The Epilogue Of Education\main.cpp(112,17): warning C4244: 'argument': conversion from 'GLfloat' to 'GLubyte', possible loss of data
+D:\7th SEMESTER\Graphics LAB\TheEpilogueOfEducation-CGProject-master\The Epilogue Of Education\main.cpp(112,14): warning C4244: 'argument': conversion from 'GLfloat' to 'GLubyte', possible loss of data
+D:\7th SEMESTER\Graphics LAB\TheEpilogueOfEducation-CGProject-master\The Epilogue Of Education\main.cpp(114,55): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\7th SEMESTER\Graphics LAB\TheEpilogueOfEducation-CGProject-master\The Epilogue Of Education\main.cpp(114,27): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\7th SEMESTER\Graphics LAB\TheEpilogueOfEducation-CGProject-master\The Epilogue Of Education\main.cpp(132,20): warning C4244: 'argument': conversion from 'GLfloat' to 'GLubyte', possible loss of data
+D:\7th SEMESTER\Graphics LAB\TheEpilogueOfEducation-CGProject-master\The Epilogue Of Education\main.cpp(132,17): warning C4244: 'argument': conversion from 'GLfloat' to 'GLubyte', possible loss of data
+D:\7th SEMESTER\Graphics LAB\TheEpilogueOfEducation-CGProject-master\The Epilogue Of Education\main.cpp(132,14): warning C4244: 'argument': conversion from 'GLfloat' to 'GLubyte', possible loss of data
+D:\7th SEMESTER\Graphics LAB\TheEpilogueOfEducation-CGProject-master\The Epilogue Of Education\main.cpp(134,55): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\7th SEMESTER\Graphics LAB\TheEpilogueOfEducation-CGProject-master\The Epilogue Of Education\main.cpp(134,27): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\7th SEMESTER\Graphics LAB\TheEpilogueOfEducation-CGProject-master\The Epilogue Of Education\main.cpp(151,19): warning C4244: 'argument': conversion from 'GLfloat' to 'GLubyte', possible loss of data
+D:\7th SEMESTER\Graphics LAB\TheEpilogueOfEducation-CGProject-master\The Epilogue Of Education\main.cpp(151,16): warning C4244: 'argument': conversion from 'GLfloat' to 'GLubyte', possible loss of data
+D:\7th SEMESTER\Graphics LAB\TheEpilogueOfEducation-CGProject-master\The Epilogue Of Education\main.cpp(151,13): warning C4244: 'argument': conversion from 'GLfloat' to 'GLubyte', possible loss of data
+D:\7th SEMESTER\Graphics LAB\TheEpilogueOfEducation-CGProject-master\The Epilogue Of Education\main.cpp(153,43): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\7th SEMESTER\Graphics LAB\TheEpilogueOfEducation-CGProject-master\The Epilogue Of Education\main.cpp(153,19): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\7th SEMESTER\Graphics LAB\TheEpilogueOfEducation-CGProject-master\The Epilogue Of Education\main.cpp(189,30): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\7th SEMESTER\Graphics LAB\TheEpilogueOfEducation-CGProject-master\The Epilogue Of Education\main.cpp(193,27): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\7th SEMESTER\Graphics LAB\TheEpilogueOfEducation-CGProject-master\The Epilogue Of Education\main.cpp(220,24): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\7th SEMESTER\Graphics LAB\TheEpilogueOfEducation-CGProject-master\The Epilogue Of Education\main.cpp(255,27): warning C4244: 'argument': conversion from 'GLfloat' to 'GLubyte', possible loss of data
+D:\7th SEMESTER\Graphics LAB\TheEpilogueOfEducation-CGProject-master\The Epilogue Of Education\main.cpp(255,20): warning C4244: 'argument': conversion from 'GLfloat' to 'GLubyte', possible loss of data
+D:\7th SEMESTER\Graphics LAB\TheEpilogueOfEducation-CGProject-master\The Epilogue Of Education\main.cpp(255,13): warning C4244: 'argument': conversion from 'GLfloat' to 'GLubyte', possible loss of data
+D:\7th SEMESTER\Graphics LAB\TheEpilogueOfEducation-CGProject-master\The Epilogue Of Education\main.cpp(264,31): warning C4244: 'argument': conversion from 'GLfloat' to 'GLubyte', possible loss of data
+D:\7th SEMESTER\Graphics LAB\TheEpilogueOfEducation-CGProject-master\The Epilogue Of Education\main.cpp(264,22): warning C4244: 'argument': conversion from 'GLfloat' to 'GLubyte', possible loss of data
+D:\7th SEMESTER\Graphics LAB\TheEpilogueOfEducation-CGProject-master\The Epilogue Of Education\main.cpp(264,13): warning C4244: 'argument': conversion from 'GLfloat' to 'GLubyte', possible loss of data
+D:\7th SEMESTER\Graphics LAB\TheEpilogueOfEducation-CGProject-master\The Epilogue Of Education\main.cpp(274,33): warning C4244: 'argument': conversion from 'GLfloat' to 'GLubyte', possible loss of data
+D:\7th SEMESTER\Graphics LAB\TheEpilogueOfEducation-CGProject-master\The Epilogue Of Education\main.cpp(274,23): warning C4244: 'argument': conversion from 'GLfloat' to 'GLubyte', possible loss of data
+D:\7th SEMESTER\Graphics LAB\TheEpilogueOfEducation-CGProject-master\The Epilogue Of Education\main.cpp(274,13): warning C4244: 'argument': conversion from 'GLfloat' to 'GLubyte', possible loss of data
+D:\7th SEMESTER\Graphics LAB\TheEpilogueOfEducation-CGProject-master\The Epilogue Of Education\main.cpp(308,31): warning C4244: 'argument': conversion from 'GLfloat' to 'GLubyte', possible loss of data
+D:\7th SEMESTER\Graphics LAB\TheEpilogueOfEducation-CGProject-master\The Epilogue Of Education\main.cpp(308,22): warning C4244: 'argument': conversion from 'GLfloat' to 'GLubyte', possible loss of data
+D:\7th SEMESTER\Graphics LAB\TheEpilogueOfEducation-CGProject-master\The Epilogue Of Education\main.cpp(308,13): warning C4244: 'argument': conversion from 'GLfloat' to 'GLubyte', possible loss of data
+D:\7th SEMESTER\Graphics LAB\TheEpilogueOfEducation-CGProject-master\The Epilogue Of Education\main.cpp(358,26): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\7th SEMESTER\Graphics LAB\TheEpilogueOfEducation-CGProject-master\The Epilogue Of Education\main.cpp(411,3): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\7th SEMESTER\Graphics LAB\TheEpilogueOfEducation-CGProject-master\The Epilogue Of Education\main.cpp(416,3): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\7th SEMESTER\Graphics LAB\TheEpilogueOfEducation-CGProject-master\The Epilogue Of Education\main.cpp(423,3): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\7th SEMESTER\Graphics LAB\TheEpilogueOfEducation-CGProject-master\The Epilogue Of Education\main.cpp(452,36): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\7th SEMESTER\Graphics LAB\TheEpilogueOfEducation-CGProject-master\The Epilogue Of Education\main.cpp(453,37): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\7th SEMESTER\Graphics LAB\TheEpilogueOfEducation-CGProject-master\The Epilogue Of Education\main.cpp(454,36): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\7th SEMESTER\Graphics LAB\TheEpilogueOfEducation-CGProject-master\The Epilogue Of Education\main.cpp(455,36): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\7th SEMESTER\Graphics LAB\TheEpilogueOfEducation-CGProject-master\The Epilogue Of Education\main.cpp(456,36): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\7th SEMESTER\Graphics LAB\TheEpilogueOfEducation-CGProject-master\The Epilogue Of Education\main.cpp(466,27): warning C4305: 'argument': truncation from 'double' to 'GLclampf'
+D:\7th SEMESTER\Graphics LAB\TheEpilogueOfEducation-CGProject-master\The Epilogue Of Education\main.cpp(466,21): warning C4305: 'argument': truncation from 'double' to 'GLclampf'
+D:\7th SEMESTER\Graphics LAB\TheEpilogueOfEducation-CGProject-master\The Epilogue Of Education\main.cpp(466,15): warning C4305: 'argument': truncation from 'double' to 'GLclampf'
+D:\7th SEMESTER\Graphics LAB\TheEpilogueOfEducation-CGProject-master\The Epilogue Of Education\main.cpp(471,38): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\7th SEMESTER\Graphics LAB\TheEpilogueOfEducation-CGProject-master\The Epilogue Of Education\main.cpp(471,34): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\7th SEMESTER\Graphics LAB\TheEpilogueOfEducation-CGProject-master\The Epilogue Of Education\main.cpp(473,38): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\7th SEMESTER\Graphics LAB\TheEpilogueOfEducation-CGProject-master\The Epilogue Of Education\main.cpp(473,34): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\7th SEMESTER\Graphics LAB\TheEpilogueOfEducation-CGProject-master\The Epilogue Of Education\main.cpp(475,39): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\7th SEMESTER\Graphics LAB\TheEpilogueOfEducation-CGProject-master\The Epilogue Of Education\main.cpp(475,34): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\7th SEMESTER\Graphics LAB\TheEpilogueOfEducation-CGProject-master\The Epilogue Of Education\main.cpp(477,38): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\7th SEMESTER\Graphics LAB\TheEpilogueOfEducation-CGProject-master\The Epilogue Of Education\main.cpp(477,34): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\7th SEMESTER\Graphics LAB\TheEpilogueOfEducation-CGProject-master\The Epilogue Of Education\main.cpp(480,50): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\7th SEMESTER\Graphics LAB\TheEpilogueOfEducation-CGProject-master\The Epilogue Of Education\main.cpp(480,45): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\7th SEMESTER\Graphics LAB\TheEpilogueOfEducation-CGProject-master\The Epilogue Of Education\main.cpp(488,27): warning C4305: 'argument': truncation from 'double' to 'GLclampf'
+D:\7th SEMESTER\Graphics LAB\TheEpilogueOfEducation-CGProject-master\The Epilogue Of Education\main.cpp(488,21): warning C4305: 'argument': truncation from 'double' to 'GLclampf'
+D:\7th SEMESTER\Graphics LAB\TheEpilogueOfEducation-CGProject-master\The Epilogue Of Education\main.cpp(488,15): warning C4305: 'argument': truncation from 'double' to 'GLclampf'
+D:\7th SEMESTER\Graphics LAB\TheEpilogueOfEducation-CGProject-master\The Epilogue Of Education\main.cpp(493,28): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\7th SEMESTER\Graphics LAB\TheEpilogueOfEducation-CGProject-master\The Epilogue Of Education\main.cpp(493,24): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\7th SEMESTER\Graphics LAB\TheEpilogueOfEducation-CGProject-master\The Epilogue Of Education\main.cpp(519,52): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\7th SEMESTER\Graphics LAB\TheEpilogueOfEducation-CGProject-master\The Epilogue Of Education\main.cpp(519,47): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\7th SEMESTER\Graphics LAB\TheEpilogueOfEducation-CGProject-master\The Epilogue Of Education\main.cpp(684,23): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+D:\7th SEMESTER\Graphics LAB\TheEpilogueOfEducation-CGProject-master\The Epilogue Of Education\main.cpp(685,23): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+D:\7th SEMESTER\Graphics LAB\TheEpilogueOfEducation-CGProject-master\The Epilogue Of Education\main.cpp(687,23): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+D:\7th SEMESTER\Graphics LAB\TheEpilogueOfEducation-CGProject-master\The Epilogue Of Education\main.cpp(688,23): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+D:\7th SEMESTER\Graphics LAB\TheEpilogueOfEducation-CGProject-master\The Epilogue Of Education\main.cpp(690,23): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+D:\7th SEMESTER\Graphics LAB\TheEpilogueOfEducation-CGProject-master\The Epilogue Of Education\main.cpp(691,23): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+D:\7th SEMESTER\Graphics LAB\TheEpilogueOfEducation-CGProject-master\The Epilogue Of Education\main.cpp(693,23): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+D:\7th SEMESTER\Graphics LAB\TheEpilogueOfEducation-CGProject-master\The Epilogue Of Education\main.cpp(694,23): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+D:\7th SEMESTER\Graphics LAB\TheEpilogueOfEducation-CGProject-master\The Epilogue Of Education\main.cpp(807,27): warning C4305: 'argument': truncation from 'double' to 'GLclampf'
+D:\7th SEMESTER\Graphics LAB\TheEpilogueOfEducation-CGProject-master\The Epilogue Of Education\main.cpp(807,21): warning C4305: 'argument': truncation from 'double' to 'GLclampf'
+D:\7th SEMESTER\Graphics LAB\TheEpilogueOfEducation-CGProject-master\The Epilogue Of Education\main.cpp(807,15): warning C4305: 'argument': truncation from 'double' to 'GLclampf'
+D:\7th SEMESTER\Graphics LAB\TheEpilogueOfEducation-CGProject-master\The Epilogue Of Education\main.cpp(812,56): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\7th SEMESTER\Graphics LAB\TheEpilogueOfEducation-CGProject-master\The Epilogue Of Education\main.cpp(812,52): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\7th SEMESTER\Graphics LAB\TheEpilogueOfEducation-CGProject-master\The Epilogue Of Education\main.cpp(812,30): warning C4244: 'argument': conversion from 'GLfloat' to 'GLint', possible loss of data
+D:\7th SEMESTER\Graphics LAB\TheEpilogueOfEducation-CGProject-master\The Epilogue Of Education\main.cpp(814,58): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\7th SEMESTER\Graphics LAB\TheEpilogueOfEducation-CGProject-master\The Epilogue Of Education\main.cpp(814,54): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\7th SEMESTER\Graphics LAB\TheEpilogueOfEducation-CGProject-master\The Epilogue Of Education\main.cpp(814,31): warning C4244: 'argument': conversion from 'GLfloat' to 'GLint', possible loss of data
+D:\7th SEMESTER\Graphics LAB\TheEpilogueOfEducation-CGProject-master\The Epilogue Of Education\main.cpp(822,27): warning C4305: 'argument': truncation from 'double' to 'GLclampf'
+D:\7th SEMESTER\Graphics LAB\TheEpilogueOfEducation-CGProject-master\The Epilogue Of Education\main.cpp(822,21): warning C4305: 'argument': truncation from 'double' to 'GLclampf'
+D:\7th SEMESTER\Graphics LAB\TheEpilogueOfEducation-CGProject-master\The Epilogue Of Education\main.cpp(822,15): warning C4305: 'argument': truncation from 'double' to 'GLclampf'
+D:\7th SEMESTER\Graphics LAB\TheEpilogueOfEducation-CGProject-master\The Epilogue Of Education\main.cpp(854,37): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\7th SEMESTER\Graphics LAB\TheEpilogueOfEducation-CGProject-master\The Epilogue Of Education\main.cpp(854,33): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\7th SEMESTER\Graphics LAB\TheEpilogueOfEducation-CGProject-master\The Epilogue Of Education\main.cpp(857,41): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\7th SEMESTER\Graphics LAB\TheEpilogueOfEducation-CGProject-master\The Epilogue Of Education\main.cpp(857,37): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\7th SEMESTER\Graphics LAB\TheEpilogueOfEducation-CGProject-master\The Epilogue Of Education\main.cpp(860,37): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\7th SEMESTER\Graphics LAB\TheEpilogueOfEducation-CGProject-master\The Epilogue Of Education\main.cpp(860,33): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\7th SEMESTER\Graphics LAB\TheEpilogueOfEducation-CGProject-master\The Epilogue Of Education\main.cpp(863,40): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\7th SEMESTER\Graphics LAB\TheEpilogueOfEducation-CGProject-master\The Epilogue Of Education\main.cpp(863,36): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\7th SEMESTER\Graphics LAB\TheEpilogueOfEducation-CGProject-master\The Epilogue Of Education\main.cpp(866,40): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\7th SEMESTER\Graphics LAB\TheEpilogueOfEducation-CGProject-master\The Epilogue Of Education\main.cpp(866,36): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\7th SEMESTER\Graphics LAB\TheEpilogueOfEducation-CGProject-master\The Epilogue Of Education\main.cpp(869,48): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\7th SEMESTER\Graphics LAB\TheEpilogueOfEducation-CGProject-master\The Epilogue Of Education\main.cpp(869,43): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\7th SEMESTER\Graphics LAB\TheEpilogueOfEducation-CGProject-master\The Epilogue Of Education\main.cpp(877,27): warning C4305: 'argument': truncation from 'double' to 'GLclampf'
+D:\7th SEMESTER\Graphics LAB\TheEpilogueOfEducation-CGProject-master\The Epilogue Of Education\main.cpp(877,21): warning C4305: 'argument': truncation from 'double' to 'GLclampf'
+D:\7th SEMESTER\Graphics LAB\TheEpilogueOfEducation-CGProject-master\The Epilogue Of Education\main.cpp(877,15): warning C4305: 'argument': truncation from 'double' to 'GLclampf'
+D:\7th SEMESTER\Graphics LAB\TheEpilogueOfEducation-CGProject-master\The Epilogue Of Education\main.cpp(882,56): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\7th SEMESTER\Graphics LAB\TheEpilogueOfEducation-CGProject-master\The Epilogue Of Education\main.cpp(882,52): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\7th SEMESTER\Graphics LAB\TheEpilogueOfEducation-CGProject-master\The Epilogue Of Education\main.cpp(882,30): warning C4244: 'argument': conversion from 'GLfloat' to 'GLint', possible loss of data
+D:\7th SEMESTER\Graphics LAB\TheEpilogueOfEducation-CGProject-master\The Epilogue Of Education\main.cpp(884,58): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\7th SEMESTER\Graphics LAB\TheEpilogueOfEducation-CGProject-master\The Epilogue Of Education\main.cpp(884,54): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\7th SEMESTER\Graphics LAB\TheEpilogueOfEducation-CGProject-master\The Epilogue Of Education\main.cpp(884,36): warning C4244: 'argument': conversion from 'GLfloat' to 'GLint', possible loss of data
+D:\7th SEMESTER\Graphics LAB\TheEpilogueOfEducation-CGProject-master\The Epilogue Of Education\main.cpp(1128,27): warning C4305: 'argument': truncation from 'double' to 'GLclampf'
+D:\7th SEMESTER\Graphics LAB\TheEpilogueOfEducation-CGProject-master\The Epilogue Of Education\main.cpp(1128,21): warning C4305: 'argument': truncation from 'double' to 'GLclampf'
+D:\7th SEMESTER\Graphics LAB\TheEpilogueOfEducation-CGProject-master\The Epilogue Of Education\main.cpp(1128,15): warning C4305: 'argument': truncation from 'double' to 'GLclampf'
+D:\7th SEMESTER\Graphics LAB\TheEpilogueOfEducation-CGProject-master\The Epilogue Of Education\main.cpp(1132,72): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\7th SEMESTER\Graphics LAB\TheEpilogueOfEducation-CGProject-master\The Epilogue Of Education\main.cpp(1132,67): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\7th SEMESTER\Graphics LAB\TheEpilogueOfEducation-CGProject-master\The Epilogue Of Education\main.cpp(1132,42): warning C4244: 'argument': conversion from 'GLfloat' to 'GLint', possible loss of data
+D:\7th SEMESTER\Graphics LAB\TheEpilogueOfEducation-CGProject-master\The Epilogue Of Education\main.cpp(1135,72): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\7th SEMESTER\Graphics LAB\TheEpilogueOfEducation-CGProject-master\The Epilogue Of Education\main.cpp(1135,67): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\7th SEMESTER\Graphics LAB\TheEpilogueOfEducation-CGProject-master\The Epilogue Of Education\main.cpp(1135,42): warning C4244: 'argument': conversion from 'GLfloat' to 'GLint', possible loss of data
+D:\7th SEMESTER\Graphics LAB\TheEpilogueOfEducation-CGProject-master\The Epilogue Of Education\main.cpp(1157,8): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\7th SEMESTER\Graphics LAB\TheEpilogueOfEducation-CGProject-master\The Epilogue Of Education\main.cpp(1157,4): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\7th SEMESTER\Graphics LAB\TheEpilogueOfEducation-CGProject-master\The Epilogue Of Education\main.cpp(1162,7): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\7th SEMESTER\Graphics LAB\TheEpilogueOfEducation-CGProject-master\The Epilogue Of Education\main.cpp(1162,3): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\7th SEMESTER\Graphics LAB\TheEpilogueOfEducation-CGProject-master\The Epilogue Of Education\main.cpp(1167,8): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\7th SEMESTER\Graphics LAB\TheEpilogueOfEducation-CGProject-master\The Epilogue Of Education\main.cpp(1167,4): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\7th SEMESTER\Graphics LAB\TheEpilogueOfEducation-CGProject-master\The Epilogue Of Education\main.cpp(1182,27): warning C4305: 'argument': truncation from 'double' to 'GLclampf'
+D:\7th SEMESTER\Graphics LAB\TheEpilogueOfEducation-CGProject-master\The Epilogue Of Education\main.cpp(1182,21): warning C4305: 'argument': truncation from 'double' to 'GLclampf'
+D:\7th SEMESTER\Graphics LAB\TheEpilogueOfEducation-CGProject-master\The Epilogue Of Education\main.cpp(1182,15): warning C4305: 'argument': truncation from 'double' to 'GLclampf'
+D:\7th SEMESTER\Graphics LAB\TheEpilogueOfEducation-CGProject-master\The Epilogue Of Education\main.cpp(1187,56): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\7th SEMESTER\Graphics LAB\TheEpilogueOfEducation-CGProject-master\The Epilogue Of Education\main.cpp(1187,52): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\7th SEMESTER\Graphics LAB\TheEpilogueOfEducation-CGProject-master\The Epilogue Of Education\main.cpp(1187,30): warning C4244: 'argument': conversion from 'GLfloat' to 'GLint', possible loss of data
+D:\7th SEMESTER\Graphics LAB\TheEpilogueOfEducation-CGProject-master\The Epilogue Of Education\main.cpp(1189,58): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\7th SEMESTER\Graphics LAB\TheEpilogueOfEducation-CGProject-master\The Epilogue Of Education\main.cpp(1189,54): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\7th SEMESTER\Graphics LAB\TheEpilogueOfEducation-CGProject-master\The Epilogue Of Education\main.cpp(1189,31): warning C4244: 'argument': conversion from 'GLfloat' to 'GLint', possible loss of data
+D:\7th SEMESTER\Graphics LAB\TheEpilogueOfEducation-CGProject-master\The Epilogue Of Education\main.cpp(1195,27): warning C4244: 'argument': conversion from 'GLfloat' to 'GLubyte', possible loss of data
+D:\7th SEMESTER\Graphics LAB\TheEpilogueOfEducation-CGProject-master\The Epilogue Of Education\main.cpp(1195,20): warning C4244: 'argument': conversion from 'GLfloat' to 'GLubyte', possible loss of data
+D:\7th SEMESTER\Graphics LAB\TheEpilogueOfEducation-CGProject-master\The Epilogue Of Education\main.cpp(1195,13): warning C4244: 'argument': conversion from 'GLfloat' to 'GLubyte', possible loss of data
+D:\7th SEMESTER\Graphics LAB\TheEpilogueOfEducation-CGProject-master\The Epilogue Of Education\main.cpp(1203,27): warning C4244: 'argument': conversion from 'GLfloat' to 'GLubyte', possible loss of data
+D:\7th SEMESTER\Graphics LAB\TheEpilogueOfEducation-CGProject-master\The Epilogue Of Education\main.cpp(1203,20): warning C4244: 'argument': conversion from 'GLfloat' to 'GLubyte', possible loss of data
+D:\7th SEMESTER\Graphics LAB\TheEpilogueOfEducation-CGProject-master\The Epilogue Of Education\main.cpp(1203,13): warning C4244: 'argument': conversion from 'GLfloat' to 'GLubyte', possible loss of data
+D:\7th SEMESTER\Graphics LAB\TheEpilogueOfEducation-CGProject-master\The Epilogue Of Education\main.cpp(1206,31): warning C4244: 'argument': conversion from 'GLfloat' to 'GLubyte', possible loss of data
+D:\7th SEMESTER\Graphics LAB\TheEpilogueOfEducation-CGProject-master\The Epilogue Of Education\main.cpp(1206,22): warning C4244: 'argument': conversion from 'GLfloat' to 'GLubyte', possible loss of data
+D:\7th SEMESTER\Graphics LAB\TheEpilogueOfEducation-CGProject-master\The Epilogue Of Education\main.cpp(1206,13): warning C4244: 'argument': conversion from 'GLfloat' to 'GLubyte', possible loss of data
+D:\7th SEMESTER\Graphics LAB\TheEpilogueOfEducation-CGProject-master\The Epilogue Of Education\main.cpp(1320,14): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+D:\7th SEMESTER\Graphics LAB\TheEpilogueOfEducation-CGProject-master\The Epilogue Of Education\main.cpp(1321,14): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+D:\7th SEMESTER\Graphics LAB\TheEpilogueOfEducation-CGProject-master\The Epilogue Of Education\main.cpp(1324,20): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+D:\7th SEMESTER\Graphics LAB\TheEpilogueOfEducation-CGProject-master\The Epilogue Of Education\main.cpp(1325,20): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+D:\7th SEMESTER\Graphics LAB\TheEpilogueOfEducation-CGProject-master\The Epilogue Of Education\main.cpp(1358,41): warning C4244: 'argument': conversion from 'GLfloat' to 'GLubyte', possible loss of data
+D:\7th SEMESTER\Graphics LAB\TheEpilogueOfEducation-CGProject-master\The Epilogue Of Education\main.cpp(1358,27): warning C4244: 'argument': conversion from 'GLfloat' to 'GLubyte', possible loss of data
+D:\7th SEMESTER\Graphics LAB\TheEpilogueOfEducation-CGProject-master\The Epilogue Of Education\main.cpp(1358,13): warning C4244: 'argument': conversion from 'GLfloat' to 'GLubyte', possible loss of data
+D:\7th SEMESTER\Graphics LAB\TheEpilogueOfEducation-CGProject-master\The Epilogue Of Education\main.cpp(1362,47): warning C4244: 'argument': conversion from 'GLfloat' to 'GLubyte', possible loss of data
+D:\7th SEMESTER\Graphics LAB\TheEpilogueOfEducation-CGProject-master\The Epilogue Of Education\main.cpp(1362,30): warning C4244: 'argument': conversion from 'GLfloat' to 'GLubyte', possible loss of data
+D:\7th SEMESTER\Graphics LAB\TheEpilogueOfEducation-CGProject-master\The Epilogue Of Education\main.cpp(1362,13): warning C4244: 'argument': conversion from 'GLfloat' to 'GLubyte', possible loss of data
+D:\7th SEMESTER\Graphics LAB\TheEpilogueOfEducation-CGProject-master\The Epilogue Of Education\main.cpp(1448,44): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\7th SEMESTER\Graphics LAB\TheEpilogueOfEducation-CGProject-master\The Epilogue Of Education\main.cpp(1448,40): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\7th SEMESTER\Graphics LAB\TheEpilogueOfEducation-CGProject-master\The Epilogue Of Education\main.cpp(1480,28): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+D:\7th SEMESTER\Graphics LAB\TheEpilogueOfEducation-CGProject-master\The Epilogue Of Education\main.cpp(1480,19): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+D:\7th SEMESTER\Graphics LAB\TheEpilogueOfEducation-CGProject-master\The Epilogue Of Education\main.cpp(1481,28): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+D:\7th SEMESTER\Graphics LAB\TheEpilogueOfEducation-CGProject-master\The Epilogue Of Education\main.cpp(1481,19): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+D:\7th SEMESTER\Graphics LAB\TheEpilogueOfEducation-CGProject-master\The Epilogue Of Education\main.cpp(1482,28): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+D:\7th SEMESTER\Graphics LAB\TheEpilogueOfEducation-CGProject-master\The Epilogue Of Education\main.cpp(1482,19): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+D:\7th SEMESTER\Graphics LAB\TheEpilogueOfEducation-CGProject-master\The Epilogue Of Education\main.cpp(1484,28): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+D:\7th SEMESTER\Graphics LAB\TheEpilogueOfEducation-CGProject-master\The Epilogue Of Education\main.cpp(1484,19): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+D:\7th SEMESTER\Graphics LAB\TheEpilogueOfEducation-CGProject-master\The Epilogue Of Education\main.cpp(1489,28): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+D:\7th SEMESTER\Graphics LAB\TheEpilogueOfEducation-CGProject-master\The Epilogue Of Education\main.cpp(1489,19): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+D:\7th SEMESTER\Graphics LAB\TheEpilogueOfEducation-CGProject-master\The Epilogue Of Education\main.cpp(1490,28): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+D:\7th SEMESTER\Graphics LAB\TheEpilogueOfEducation-CGProject-master\The Epilogue Of Education\main.cpp(1490,19): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+D:\7th SEMESTER\Graphics LAB\TheEpilogueOfEducation-CGProject-master\The Epilogue Of Education\main.cpp(1491,28): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+D:\7th SEMESTER\Graphics LAB\TheEpilogueOfEducation-CGProject-master\The Epilogue Of Education\main.cpp(1491,19): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+D:\7th SEMESTER\Graphics LAB\TheEpilogueOfEducation-CGProject-master\The Epilogue Of Education\main.cpp(1492,28): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+D:\7th SEMESTER\Graphics LAB\TheEpilogueOfEducation-CGProject-master\The Epilogue Of Education\main.cpp(1492,19): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+D:\7th SEMESTER\Graphics LAB\TheEpilogueOfEducation-CGProject-master\The Epilogue Of Education\main.cpp(1498,28): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+D:\7th SEMESTER\Graphics LAB\TheEpilogueOfEducation-CGProject-master\The Epilogue Of Education\main.cpp(1498,19): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+D:\7th SEMESTER\Graphics LAB\TheEpilogueOfEducation-CGProject-master\The Epilogue Of Education\main.cpp(1499,28): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+D:\7th SEMESTER\Graphics LAB\TheEpilogueOfEducation-CGProject-master\The Epilogue Of Education\main.cpp(1499,19): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+D:\7th SEMESTER\Graphics LAB\TheEpilogueOfEducation-CGProject-master\The Epilogue Of Education\main.cpp(1612,50): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\7th SEMESTER\Graphics LAB\TheEpilogueOfEducation-CGProject-master\The Epilogue Of Education\main.cpp(1612,45): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\7th SEMESTER\Graphics LAB\TheEpilogueOfEducation-CGProject-master\The Epilogue Of Education\main.cpp(1612,40): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\7th SEMESTER\Graphics LAB\TheEpilogueOfEducation-CGProject-master\The Epilogue Of Education\main.cpp(1706,52): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+D:\7th SEMESTER\Graphics LAB\TheEpilogueOfEducation-CGProject-master\The Epilogue Of Education\main.cpp(1706,31): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+D:\7th SEMESTER\Graphics LAB\TheEpilogueOfEducation-CGProject-master\The Epilogue Of Education\main.cpp(1747,31): warning C4244: 'argument': conversion from 'GLfloat' to 'GLubyte', possible loss of data
+D:\7th SEMESTER\Graphics LAB\TheEpilogueOfEducation-CGProject-master\The Epilogue Of Education\main.cpp(1747,22): warning C4244: 'argument': conversion from 'GLfloat' to 'GLubyte', possible loss of data
+D:\7th SEMESTER\Graphics LAB\TheEpilogueOfEducation-CGProject-master\The Epilogue Of Education\main.cpp(1747,13): warning C4244: 'argument': conversion from 'GLfloat' to 'GLubyte', possible loss of data
+D:\7th SEMESTER\Graphics LAB\TheEpilogueOfEducation-CGProject-master\The Epilogue Of Education\main.cpp(1766,6): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\7th SEMESTER\Graphics LAB\TheEpilogueOfEducation-CGProject-master\The Epilogue Of Education\main.cpp(1807,27): warning C4305: 'argument': truncation from 'double' to 'GLclampf'
+D:\7th SEMESTER\Graphics LAB\TheEpilogueOfEducation-CGProject-master\The Epilogue Of Education\main.cpp(1807,21): warning C4305: 'argument': truncation from 'double' to 'GLclampf'
+D:\7th SEMESTER\Graphics LAB\TheEpilogueOfEducation-CGProject-master\The Epilogue Of Education\main.cpp(1807,15): warning C4305: 'argument': truncation from 'double' to 'GLclampf'
+D:\7th SEMESTER\Graphics LAB\TheEpilogueOfEducation-CGProject-master\The Epilogue Of Education\main.cpp(1826,47): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\7th SEMESTER\Graphics LAB\TheEpilogueOfEducation-CGProject-master\The Epilogue Of Education\main.cpp(1826,42): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\7th SEMESTER\Graphics LAB\TheEpilogueOfEducation-CGProject-master\The Epilogue Of Education\main.cpp(1832,27): warning C4305: 'argument': truncation from 'double' to 'GLclampf'
+D:\7th SEMESTER\Graphics LAB\TheEpilogueOfEducation-CGProject-master\The Epilogue Of Education\main.cpp(1832,21): warning C4305: 'argument': truncation from 'double' to 'GLclampf'
+D:\7th SEMESTER\Graphics LAB\TheEpilogueOfEducation-CGProject-master\The Epilogue Of Education\main.cpp(1832,15): warning C4305: 'argument': truncation from 'double' to 'GLclampf'
+D:\7th SEMESTER\Graphics LAB\TheEpilogueOfEducation-CGProject-master\The Epilogue Of Education\main.cpp(1837,57): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\7th SEMESTER\Graphics LAB\TheEpilogueOfEducation-CGProject-master\The Epilogue Of Education\main.cpp(1837,53): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\7th SEMESTER\Graphics LAB\TheEpilogueOfEducation-CGProject-master\The Epilogue Of Education\main.cpp(1837,36): warning C4244: 'argument': conversion from 'GLfloat' to 'GLint', possible loss of data
+D:\7th SEMESTER\Graphics LAB\TheEpilogueOfEducation-CGProject-master\The Epilogue Of Education\main.cpp(1839,76): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\7th SEMESTER\Graphics LAB\TheEpilogueOfEducation-CGProject-master\The Epilogue Of Education\main.cpp(1839,72): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\7th SEMESTER\Graphics LAB\TheEpilogueOfEducation-CGProject-master\The Epilogue Of Education\main.cpp(1839,54): warning C4244: 'argument': conversion from 'GLfloat' to 'GLint', possible loss of data
+D:\7th SEMESTER\Graphics LAB\TheEpilogueOfEducation-CGProject-master\The Epilogue Of Education\main.cpp(1839,32): warning C4244: 'argument': conversion from 'GLfloat' to 'GLint', possible loss of data
+D:\7th SEMESTER\Graphics LAB\TheEpilogueOfEducation-CGProject-master\The Epilogue Of Education\main.cpp(1887,18): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\7th SEMESTER\Graphics LAB\TheEpilogueOfEducation-CGProject-master\The Epilogue Of Education\main.cpp(1888,18): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\7th SEMESTER\Graphics LAB\TheEpilogueOfEducation-CGProject-master\The Epilogue Of Education\main.cpp(1896,18): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\7th SEMESTER\Graphics LAB\TheEpilogueOfEducation-CGProject-master\The Epilogue Of Education\main.cpp(1897,18): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\7th SEMESTER\Graphics LAB\TheEpilogueOfEducation-CGProject-master\The Epilogue Of Education\main.cpp(1946,18): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\7th SEMESTER\Graphics LAB\TheEpilogueOfEducation-CGProject-master\The Epilogue Of Education\main.cpp(1955,18): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\7th SEMESTER\Graphics LAB\TheEpilogueOfEducation-CGProject-master\The Epilogue Of Education\main.cpp(1984,18): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\7th SEMESTER\Graphics LAB\TheEpilogueOfEducation-CGProject-master\The Epilogue Of Education\main.cpp(1993,18): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\7th SEMESTER\Graphics LAB\TheEpilogueOfEducation-CGProject-master\The Epilogue Of Education\main.cpp(2059,29): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\7th SEMESTER\Graphics LAB\TheEpilogueOfEducation-CGProject-master\The Epilogue Of Education\main.cpp(2059,25): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\7th SEMESTER\Graphics LAB\TheEpilogueOfEducation-CGProject-master\The Epilogue Of Education\main.cpp(2107,15): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\7th SEMESTER\Graphics LAB\TheEpilogueOfEducation-CGProject-master\The Epilogue Of Education\main.cpp(2107,11): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\7th SEMESTER\Graphics LAB\TheEpilogueOfEducation-CGProject-master\The Epilogue Of Education\main.cpp(2132,29): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\7th SEMESTER\Graphics LAB\TheEpilogueOfEducation-CGProject-master\The Epilogue Of Education\main.cpp(2132,25): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\7th SEMESTER\Graphics LAB\TheEpilogueOfEducation-CGProject-master\The Epilogue Of Education\main.cpp(2204,30): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\7th SEMESTER\Graphics LAB\TheEpilogueOfEducation-CGProject-master\The Epilogue Of Education\main.cpp(2204,26): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\7th SEMESTER\Graphics LAB\TheEpilogueOfEducation-CGProject-master\The Epilogue Of Education\main.cpp(2252,15): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\7th SEMESTER\Graphics LAB\TheEpilogueOfEducation-CGProject-master\The Epilogue Of Education\main.cpp(2252,11): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\7th SEMESTER\Graphics LAB\TheEpilogueOfEducation-CGProject-master\The Epilogue Of Education\main.cpp(2277,30): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\7th SEMESTER\Graphics LAB\TheEpilogueOfEducation-CGProject-master\The Epilogue Of Education\main.cpp(2277,26): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\7th SEMESTER\Graphics LAB\TheEpilogueOfEducation-CGProject-master\The Epilogue Of Education\main.cpp(2321,29): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\7th SEMESTER\Graphics LAB\TheEpilogueOfEducation-CGProject-master\The Epilogue Of Education\main.cpp(2321,25): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\7th SEMESTER\Graphics LAB\TheEpilogueOfEducation-CGProject-master\The Epilogue Of Education\main.cpp(2324,30): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\7th SEMESTER\Graphics LAB\TheEpilogueOfEducation-CGProject-master\The Epilogue Of Education\main.cpp(2324,25): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\7th SEMESTER\Graphics LAB\TheEpilogueOfEducation-CGProject-master\The Epilogue Of Education\main.cpp(2330,27): warning C4305: 'argument': truncation from 'double' to 'GLclampf'
+D:\7th SEMESTER\Graphics LAB\TheEpilogueOfEducation-CGProject-master\The Epilogue Of Education\main.cpp(2330,21): warning C4305: 'argument': truncation from 'double' to 'GLclampf'
+D:\7th SEMESTER\Graphics LAB\TheEpilogueOfEducation-CGProject-master\The Epilogue Of Education\main.cpp(2330,15): warning C4305: 'argument': truncation from 'double' to 'GLclampf'
+D:\7th SEMESTER\Graphics LAB\TheEpilogueOfEducation-CGProject-master\The Epilogue Of Education\main.cpp(2346,8): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\7th SEMESTER\Graphics LAB\TheEpilogueOfEducation-CGProject-master\The Epilogue Of Education\main.cpp(2346,3): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\7th SEMESTER\Graphics LAB\TheEpilogueOfEducation-CGProject-master\The Epilogue Of Education\main.cpp(2351,9): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\7th SEMESTER\Graphics LAB\TheEpilogueOfEducation-CGProject-master\The Epilogue Of Education\main.cpp(2351,4): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\7th SEMESTER\Graphics LAB\TheEpilogueOfEducation-CGProject-master\The Epilogue Of Education\main.cpp(2355,47): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\7th SEMESTER\Graphics LAB\TheEpilogueOfEducation-CGProject-master\The Epilogue Of Education\main.cpp(2355,42): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\7th SEMESTER\Graphics LAB\TheEpilogueOfEducation-CGProject-master\The Epilogue Of Education\main.cpp(2361,27): warning C4305: 'argument': truncation from 'double' to 'GLclampf'
+D:\7th SEMESTER\Graphics LAB\TheEpilogueOfEducation-CGProject-master\The Epilogue Of Education\main.cpp(2361,21): warning C4305: 'argument': truncation from 'double' to 'GLclampf'
+D:\7th SEMESTER\Graphics LAB\TheEpilogueOfEducation-CGProject-master\The Epilogue Of Education\main.cpp(2361,15): warning C4305: 'argument': truncation from 'double' to 'GLclampf'
+D:\7th SEMESTER\Graphics LAB\TheEpilogueOfEducation-CGProject-master\The Epilogue Of Education\main.cpp(2366,57): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\7th SEMESTER\Graphics LAB\TheEpilogueOfEducation-CGProject-master\The Epilogue Of Education\main.cpp(2366,53): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\7th SEMESTER\Graphics LAB\TheEpilogueOfEducation-CGProject-master\The Epilogue Of Education\main.cpp(2366,31): warning C4244: 'argument': conversion from 'GLfloat' to 'GLint', possible loss of data
+D:\7th SEMESTER\Graphics LAB\TheEpilogueOfEducation-CGProject-master\The Epilogue Of Education\main.cpp(2368,59): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\7th SEMESTER\Graphics LAB\TheEpilogueOfEducation-CGProject-master\The Epilogue Of Education\main.cpp(2368,55): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\7th SEMESTER\Graphics LAB\TheEpilogueOfEducation-CGProject-master\The Epilogue Of Education\main.cpp(2368,32): warning C4244: 'argument': conversion from 'GLfloat' to 'GLint', possible loss of data
+D:\7th SEMESTER\Graphics LAB\TheEpilogueOfEducation-CGProject-master\The Epilogue Of Education\main.cpp(2406,31): warning C4244: 'argument': conversion from 'GLfloat' to 'GLubyte', possible loss of data
+D:\7th SEMESTER\Graphics LAB\TheEpilogueOfEducation-CGProject-master\The Epilogue Of Education\main.cpp(2406,22): warning C4244: 'argument': conversion from 'GLfloat' to 'GLubyte', possible loss of data
+D:\7th SEMESTER\Graphics LAB\TheEpilogueOfEducation-CGProject-master\The Epilogue Of Education\main.cpp(2406,13): warning C4244: 'argument': conversion from 'GLfloat' to 'GLubyte', possible loss of data
+D:\7th SEMESTER\Graphics LAB\TheEpilogueOfEducation-CGProject-master\The Epilogue Of Education\main.cpp(2425,6): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\7th SEMESTER\Graphics LAB\TheEpilogueOfEducation-CGProject-master\The Epilogue Of Education\main.cpp(2455,6): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\7th SEMESTER\Graphics LAB\TheEpilogueOfEducation-CGProject-master\The Epilogue Of Education\main.cpp(2753,26): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\7th SEMESTER\Graphics LAB\TheEpilogueOfEducation-CGProject-master\The Epilogue Of Education\main.cpp(2753,21): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\7th SEMESTER\Graphics LAB\TheEpilogueOfEducation-CGProject-master\The Epilogue Of Education\main.cpp(2754,26): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\7th SEMESTER\Graphics LAB\TheEpilogueOfEducation-CGProject-master\The Epilogue Of Education\main.cpp(2754,21): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\7th SEMESTER\Graphics LAB\TheEpilogueOfEducation-CGProject-master\The Epilogue Of Education\main.cpp(2755,26): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\7th SEMESTER\Graphics LAB\TheEpilogueOfEducation-CGProject-master\The Epilogue Of Education\main.cpp(2755,21): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\7th SEMESTER\Graphics LAB\TheEpilogueOfEducation-CGProject-master\The Epilogue Of Education\main.cpp(2759,27): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\7th SEMESTER\Graphics LAB\TheEpilogueOfEducation-CGProject-master\The Epilogue Of Education\main.cpp(2759,22): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\7th SEMESTER\Graphics LAB\TheEpilogueOfEducation-CGProject-master\The Epilogue Of Education\main.cpp(2760,27): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\7th SEMESTER\Graphics LAB\TheEpilogueOfEducation-CGProject-master\The Epilogue Of Education\main.cpp(2760,22): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\7th SEMESTER\Graphics LAB\TheEpilogueOfEducation-CGProject-master\The Epilogue Of Education\main.cpp(2761,27): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\7th SEMESTER\Graphics LAB\TheEpilogueOfEducation-CGProject-master\The Epilogue Of Education\main.cpp(2761,22): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\7th SEMESTER\Graphics LAB\TheEpilogueOfEducation-CGProject-master\The Epilogue Of Education\main.cpp(2827,7): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\7th SEMESTER\Graphics LAB\TheEpilogueOfEducation-CGProject-master\The Epilogue Of Education\main.cpp(2827,3): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\7th SEMESTER\Graphics LAB\TheEpilogueOfEducation-CGProject-master\The Epilogue Of Education\main.cpp(2833,7): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\7th SEMESTER\Graphics LAB\TheEpilogueOfEducation-CGProject-master\The Epilogue Of Education\main.cpp(2833,3): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\7th SEMESTER\Graphics LAB\TheEpilogueOfEducation-CGProject-master\The Epilogue Of Education\main.cpp(2840,27): warning C4305: 'argument': truncation from 'double' to 'GLclampf'
+D:\7th SEMESTER\Graphics LAB\TheEpilogueOfEducation-CGProject-master\The Epilogue Of Education\main.cpp(2840,21): warning C4305: 'argument': truncation from 'double' to 'GLclampf'
+D:\7th SEMESTER\Graphics LAB\TheEpilogueOfEducation-CGProject-master\The Epilogue Of Education\main.cpp(2840,15): warning C4305: 'argument': truncation from 'double' to 'GLclampf'
+D:\7th SEMESTER\Graphics LAB\TheEpilogueOfEducation-CGProject-master\The Epilogue Of Education\main.cpp(2854,45): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\7th SEMESTER\Graphics LAB\TheEpilogueOfEducation-CGProject-master\The Epilogue Of Education\main.cpp(2854,40): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\7th SEMESTER\Graphics LAB\TheEpilogueOfEducation-CGProject-master\The Epilogue Of Education\main.cpp(2860,27): warning C4305: 'argument': truncation from 'double' to 'GLclampf'
+D:\7th SEMESTER\Graphics LAB\TheEpilogueOfEducation-CGProject-master\The Epilogue Of Education\main.cpp(2860,21): warning C4305: 'argument': truncation from 'double' to 'GLclampf'
+D:\7th SEMESTER\Graphics LAB\TheEpilogueOfEducation-CGProject-master\The Epilogue Of Education\main.cpp(2860,15): warning C4305: 'argument': truncation from 'double' to 'GLclampf'
+D:\7th SEMESTER\Graphics LAB\TheEpilogueOfEducation-CGProject-master\The Epilogue Of Education\main.cpp(2865,56): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\7th SEMESTER\Graphics LAB\TheEpilogueOfEducation-CGProject-master\The Epilogue Of Education\main.cpp(2865,52): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\7th SEMESTER\Graphics LAB\TheEpilogueOfEducation-CGProject-master\The Epilogue Of Education\main.cpp(2865,35): warning C4244: 'argument': conversion from 'GLfloat' to 'GLint', possible loss of data
+D:\7th SEMESTER\Graphics LAB\TheEpilogueOfEducation-CGProject-master\The Epilogue Of Education\main.cpp(2867,58): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\7th SEMESTER\Graphics LAB\TheEpilogueOfEducation-CGProject-master\The Epilogue Of Education\main.cpp(2867,54): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\7th SEMESTER\Graphics LAB\TheEpilogueOfEducation-CGProject-master\The Epilogue Of Education\main.cpp(2867,31): warning C4244: 'argument': conversion from 'GLfloat' to 'GLint', possible loss of data
+D:\7th SEMESTER\Graphics LAB\TheEpilogueOfEducation-CGProject-master\The Epilogue Of Education\main.cpp(2956,6): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\7th SEMESTER\Graphics LAB\TheEpilogueOfEducation-CGProject-master\The Epilogue Of Education\main.cpp(2959,30): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\7th SEMESTER\Graphics LAB\TheEpilogueOfEducation-CGProject-master\The Epilogue Of Education\main.cpp(2962,31): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\7th SEMESTER\Graphics LAB\TheEpilogueOfEducation-CGProject-master\The Epilogue Of Education\main.cpp(2962,27): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\7th SEMESTER\Graphics LAB\TheEpilogueOfEducation-CGProject-master\The Epilogue Of Education\main.cpp(2989,7): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\7th SEMESTER\Graphics LAB\TheEpilogueOfEducation-CGProject-master\The Epilogue Of Education\main.cpp(2989,3): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\7th SEMESTER\Graphics LAB\TheEpilogueOfEducation-CGProject-master\The Epilogue Of Education\main.cpp(3069,32): warning C4244: 'argument': conversion from 'GLfloat' to 'GLubyte', possible loss of data
+D:\7th SEMESTER\Graphics LAB\TheEpilogueOfEducation-CGProject-master\The Epilogue Of Education\main.cpp(3069,23): warning C4244: 'argument': conversion from 'GLfloat' to 'GLubyte', possible loss of data
+D:\7th SEMESTER\Graphics LAB\TheEpilogueOfEducation-CGProject-master\The Epilogue Of Education\main.cpp(3069,14): warning C4244: 'argument': conversion from 'GLfloat' to 'GLubyte', possible loss of data
+D:\7th SEMESTER\Graphics LAB\TheEpilogueOfEducation-CGProject-master\The Epilogue Of Education\main.cpp(3194,40): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\7th SEMESTER\Graphics LAB\TheEpilogueOfEducation-CGProject-master\The Epilogue Of Education\main.cpp(3194,34): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\7th SEMESTER\Graphics LAB\TheEpilogueOfEducation-CGProject-master\The Epilogue Of Education\main.cpp(3197,40): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\7th SEMESTER\Graphics LAB\TheEpilogueOfEducation-CGProject-master\The Epilogue Of Education\main.cpp(3197,34): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\7th SEMESTER\Graphics LAB\TheEpilogueOfEducation-CGProject-master\The Epilogue Of Education\main.cpp(3203,27): warning C4305: 'argument': truncation from 'double' to 'GLclampf'
+D:\7th SEMESTER\Graphics LAB\TheEpilogueOfEducation-CGProject-master\The Epilogue Of Education\main.cpp(3203,21): warning C4305: 'argument': truncation from 'double' to 'GLclampf'
+D:\7th SEMESTER\Graphics LAB\TheEpilogueOfEducation-CGProject-master\The Epilogue Of Education\main.cpp(3203,15): warning C4305: 'argument': truncation from 'double' to 'GLclampf'
+D:\7th SEMESTER\Graphics LAB\TheEpilogueOfEducation-CGProject-master\The Epilogue Of Education\main.cpp(3220,45): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\7th SEMESTER\Graphics LAB\TheEpilogueOfEducation-CGProject-master\The Epilogue Of Education\main.cpp(3220,40): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\7th SEMESTER\Graphics LAB\TheEpilogueOfEducation-CGProject-master\The Epilogue Of Education\main.cpp(3226,27): warning C4305: 'argument': truncation from 'double' to 'GLclampf'
+D:\7th SEMESTER\Graphics LAB\TheEpilogueOfEducation-CGProject-master\The Epilogue Of Education\main.cpp(3226,21): warning C4305: 'argument': truncation from 'double' to 'GLclampf'
+D:\7th SEMESTER\Graphics LAB\TheEpilogueOfEducation-CGProject-master\The Epilogue Of Education\main.cpp(3226,15): warning C4305: 'argument': truncation from 'double' to 'GLclampf'
+D:\7th SEMESTER\Graphics LAB\TheEpilogueOfEducation-CGProject-master\The Epilogue Of Education\main.cpp(3231,28): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\7th SEMESTER\Graphics LAB\TheEpilogueOfEducation-CGProject-master\The Epilogue Of Education\main.cpp(3231,24): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\7th SEMESTER\Graphics LAB\TheEpilogueOfEducation-CGProject-master\The Epilogue Of Education\main.cpp(3251,27): warning C4305: 'argument': truncation from 'double' to 'GLclampf'
+D:\7th SEMESTER\Graphics LAB\TheEpilogueOfEducation-CGProject-master\The Epilogue Of Education\main.cpp(3251,21): warning C4305: 'argument': truncation from 'double' to 'GLclampf'
+D:\7th SEMESTER\Graphics LAB\TheEpilogueOfEducation-CGProject-master\The Epilogue Of Education\main.cpp(3251,15): warning C4305: 'argument': truncation from 'double' to 'GLclampf'
+D:\7th SEMESTER\Graphics LAB\TheEpilogueOfEducation-CGProject-master\The Epilogue Of Education\main.cpp(3256,28): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\7th SEMESTER\Graphics LAB\TheEpilogueOfEducation-CGProject-master\The Epilogue Of Education\main.cpp(3256,24): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\7th SEMESTER\Graphics LAB\TheEpilogueOfEducation-CGProject-master\The Epilogue Of Education\main.cpp(3353,22): warning C4305: '+=': truncation from 'double' to 'GLfloat'
+D:\7th SEMESTER\Graphics LAB\TheEpilogueOfEducation-CGProject-master\The Epilogue Of Education\main.cpp(3361,29): warning C4305: '+=': truncation from 'double' to 'GLfloat'
+D:\7th SEMESTER\Graphics LAB\TheEpilogueOfEducation-CGProject-master\The Epilogue Of Education\main.cpp(3364,30): warning C4305: '+=': truncation from 'double' to 'GLfloat'
+D:\7th SEMESTER\Graphics LAB\TheEpilogueOfEducation-CGProject-master\The Epilogue Of Education\main.cpp(3367,31): warning C4305: '+=': truncation from 'double' to 'GLfloat'
+D:\7th SEMESTER\Graphics LAB\TheEpilogueOfEducation-CGProject-master\The Epilogue Of Education\main.cpp(3370,32): warning C4305: '+=': truncation from 'double' to 'GLfloat'
+D:\7th SEMESTER\Graphics LAB\TheEpilogueOfEducation-CGProject-master\The Epilogue Of Education\main.cpp(3384,24): warning C4305: '+=': truncation from 'double' to 'GLfloat'
+D:\7th SEMESTER\Graphics LAB\TheEpilogueOfEducation-CGProject-master\The Epilogue Of Education\main.cpp(3387,25): warning C4305: '+=': truncation from 'double' to 'GLfloat'
+D:\7th SEMESTER\Graphics LAB\TheEpilogueOfEducation-CGProject-master\The Epilogue Of Education\main.cpp(3393,21): warning C4305: '+=': truncation from 'double' to 'GLfloat'
+D:\7th SEMESTER\Graphics LAB\TheEpilogueOfEducation-CGProject-master\The Epilogue Of Education\main.cpp(3396,27): warning C4305: '+=': truncation from 'double' to 'GLfloat'
+D:\7th SEMESTER\Graphics LAB\TheEpilogueOfEducation-CGProject-master\The Epilogue Of Education\main.cpp(3399,24): warning C4305: '+=': truncation from 'double' to 'GLfloat'
+D:\7th SEMESTER\Graphics LAB\TheEpilogueOfEducation-CGProject-master\The Epilogue Of Education\main.cpp(3402,28): warning C4305: '+=': truncation from 'double' to 'GLfloat'
+D:\7th SEMESTER\Graphics LAB\TheEpilogueOfEducation-CGProject-master\The Epilogue Of Education\main.cpp(3405,29): warning C4305: '+=': truncation from 'double' to 'GLfloat'
+D:\7th SEMESTER\Graphics LAB\TheEpilogueOfEducation-CGProject-master\The Epilogue Of Education\main.cpp(3420,23): warning C4305: '+=': truncation from 'double' to 'GLfloat'
+D:\7th SEMESTER\Graphics LAB\TheEpilogueOfEducation-CGProject-master\The Epilogue Of Education\main.cpp(3423,24): warning C4305: '+=': truncation from 'double' to 'GLfloat'
+D:\7th SEMESTER\Graphics LAB\TheEpilogueOfEducation-CGProject-master\The Epilogue Of Education\main.cpp(3429,22): warning C4305: '+=': truncation from 'double' to 'GLfloat'
+D:\7th SEMESTER\Graphics LAB\TheEpilogueOfEducation-CGProject-master\The Epilogue Of Education\main.cpp(3432,22): warning C4305: '+=': truncation from 'double' to 'GLfloat'
+D:\7th SEMESTER\Graphics LAB\TheEpilogueOfEducation-CGProject-master\The Epilogue Of Education\main.cpp(3435,22): warning C4305: '+=': truncation from 'double' to 'GLfloat'
+D:\7th SEMESTER\Graphics LAB\TheEpilogueOfEducation-CGProject-master\The Epilogue Of Education\main.cpp(3438,22): warning C4305: '+=': truncation from 'double' to 'GLfloat'
+D:\7th SEMESTER\Graphics LAB\TheEpilogueOfEducation-CGProject-master\The Epilogue Of Education\main.cpp(3441,32): warning C4305: '+=': truncation from 'double' to 'GLfloat'
+D:\7th SEMESTER\Graphics LAB\TheEpilogueOfEducation-CGProject-master\The Epilogue Of Education\main.cpp(3445,33): warning C4305: '+=': truncation from 'double' to 'GLfloat'
+D:\7th SEMESTER\Graphics LAB\TheEpilogueOfEducation-CGProject-master\The Epilogue Of Education\main.cpp(3459,23): warning C4305: '+=': truncation from 'double' to 'GLfloat'
+D:\7th SEMESTER\Graphics LAB\TheEpilogueOfEducation-CGProject-master\The Epilogue Of Education\main.cpp(3462,24): warning C4305: '+=': truncation from 'double' to 'GLfloat'
+D:\7th SEMESTER\Graphics LAB\TheEpilogueOfEducation-CGProject-master\The Epilogue Of Education\main.cpp(3564,33): warning C4305: '+=': truncation from 'double' to 'GLfloat'
+D:\7th SEMESTER\Graphics LAB\TheEpilogueOfEducation-CGProject-master\The Epilogue Of Education\main.cpp(3578,24): warning C4305: '+=': truncation from 'double' to 'GLfloat'
+D:\7th SEMESTER\Graphics LAB\TheEpilogueOfEducation-CGProject-master\The Epilogue Of Education\main.cpp(3581,25): warning C4305: '+=': truncation from 'double' to 'GLfloat'
+D:\7th SEMESTER\Graphics LAB\TheEpilogueOfEducation-CGProject-master\The Epilogue Of Education\main.cpp(3587,32): warning C4305: '+=': truncation from 'double' to 'GLfloat'
+D:\7th SEMESTER\Graphics LAB\TheEpilogueOfEducation-CGProject-master\The Epilogue Of Education\main.cpp(3598,22): warning C4305: '+=': truncation from 'double' to 'GLfloat'
+D:\7th SEMESTER\Graphics LAB\TheEpilogueOfEducation-CGProject-master\The Epilogue Of Education\main.cpp(3603,22): warning C4305: '+=': truncation from 'double' to 'GLfloat'
+D:\7th SEMESTER\Graphics LAB\TheEpilogueOfEducation-CGProject-master\The Epilogue Of Education\main.cpp(3629,25): warning C4305: '+=': truncation from 'double' to 'GLfloat'
+D:\7th SEMESTER\Graphics LAB\TheEpilogueOfEducation-CGProject-master\The Epilogue Of Education\main.cpp(3632,26): warning C4305: '+=': truncation from 'double' to 'GLfloat'
+D:\7th SEMESTER\Graphics LAB\TheEpilogueOfEducation-CGProject-master\The Epilogue Of Education\main.cpp(3655,31): warning C4305: '+=': truncation from 'double' to 'GLfloat'
+D:\7th SEMESTER\Graphics LAB\TheEpilogueOfEducation-CGProject-master\The Epilogue Of Education\main.cpp(3666,24): warning C4305: '+=': truncation from 'double' to 'GLfloat'
+D:\7th SEMESTER\Graphics LAB\TheEpilogueOfEducation-CGProject-master\The Epilogue Of Education\main.cpp(3669,25): warning C4305: '+=': truncation from 'double' to 'GLfloat'
+D:\7th SEMESTER\Graphics LAB\TheEpilogueOfEducation-CGProject-master\The Epilogue Of Education\main.cpp(3731,23): warning C4305: '+=': truncation from 'double' to 'GLfloat'
+D:\7th SEMESTER\Graphics LAB\TheEpilogueOfEducation-CGProject-master\The Epilogue Of Education\main.cpp(3734,31): warning C4305: '+=': truncation from 'double' to 'GLfloat'
+D:\7th SEMESTER\Graphics LAB\TheEpilogueOfEducation-CGProject-master\The Epilogue Of Education\main.cpp(3741,30): warning C4305: '+=': truncation from 'double' to 'GLfloat'
+D:\7th SEMESTER\Graphics LAB\TheEpilogueOfEducation-CGProject-master\The Epilogue Of Education\main.cpp(3744,31): warning C4305: '+=': truncation from 'double' to 'GLfloat'
+D:\7th SEMESTER\Graphics LAB\TheEpilogueOfEducation-CGProject-master\The Epilogue Of Education\main.cpp(3747,32): warning C4305: '+=': truncation from 'double' to 'GLfloat'
+D:\7th SEMESTER\Graphics LAB\TheEpilogueOfEducation-CGProject-master\The Epilogue Of Education\main.cpp(3750,33): warning C4305: '+=': truncation from 'double' to 'GLfloat'
+D:\7th SEMESTER\Graphics LAB\TheEpilogueOfEducation-CGProject-master\The Epilogue Of Education\main.cpp(3753,34): warning C4305: '+=': truncation from 'double' to 'GLfloat'
+D:\7th SEMESTER\Graphics LAB\TheEpilogueOfEducation-CGProject-master\The Epilogue Of Education\main.cpp(3756,35): warning C4305: '+=': truncation from 'double' to 'GLfloat'
+D:\7th SEMESTER\Graphics LAB\TheEpilogueOfEducation-CGProject-master\The Epilogue Of Education\main.cpp(3762,27): warning C4305: '+=': truncation from 'double' to 'GLfloat'
+D:\7th SEMESTER\Graphics LAB\TheEpilogueOfEducation-CGProject-master\The Epilogue Of Education\main.cpp(3765,28): warning C4305: '+=': truncation from 'double' to 'GLfloat'
+D:\7th SEMESTER\Graphics LAB\TheEpilogueOfEducation-CGProject-master\The Epilogue Of Education\main.cpp(3768,29): warning C4305: '+=': truncation from 'double' to 'GLfloat'
+D:\7th SEMESTER\Graphics LAB\TheEpilogueOfEducation-CGProject-master\The Epilogue Of Education\main.cpp(3771,30): warning C4305: '+=': truncation from 'double' to 'GLfloat'
+  The Epilogue Of Education.vcxproj -> D:\7th SEMESTER\Graphics LAB\TheEpilogueOfEducation-CGProject-master\x64\Debug\The Epilogue Of Education.exe
